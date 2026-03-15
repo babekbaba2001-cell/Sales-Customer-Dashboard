@@ -19,4 +19,6 @@ This Power BI dashboard analyzes historical sales, product performance, and cust
 - Customer insights
   
 ## Dashboard Preview
-![Dashboard Preview](dashboard_summary.png)
+![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard2.png)
+![Dashboard Preview](dashboard3.png)
